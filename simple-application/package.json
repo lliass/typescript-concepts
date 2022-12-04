@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ElijahLopp/typescript-concepts#readme",
   "dependencies": {
-    "@faker-js/faker": "^7.6.0"
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.50.5"
   }
 }
